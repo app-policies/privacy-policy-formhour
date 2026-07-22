@@ -1,6 +1,6 @@
 # FormHour Privacy Policy
 
-**Effective Date: July 15, 2026**
+**Effective Date: July 22, 2026**
 
 FormHour respects your privacy. This Privacy Policy explains how the FormHour iOS app handles information.
 
@@ -8,9 +8,11 @@ FormHour respects your privacy. This Privacy Policy explains how the FormHour iO
 
 FormHour does not collect, store, transmit, sell, or share personal data. The app contains no advertising, analytics, or tracking SDKs. It does not request App Tracking Transparency permission and does not access the IDFA.
 
-## On-Device Settings
+## On-Device Data and Settings
 
 Clock-face choices and preferences such as movement style, date and seconds display, theme, Ambient Shift, Focus Marker, Minimal Mode, Time Arc, Quiet Chime, brightness, screen sleep prevention, and burn-in protection are stored locally on your device using Apple's standard storage. These settings are not sent to the developer or to a developer-operated server.
+
+Task names, Focus Presets, active timer state, Pomodoro settings, Focus History, session completion status, and focus statistics are also stored only on your device. FormHour uses this local information to restore timers after relaunch and calculate on-device history and statistics. You can edit or delete tasks and history in the app. FormHour does not send these items to the developer or a developer-operated server.
 
 FormHour does not provide accounts or login, and it does not use cloud synchronization.
 
@@ -20,7 +22,11 @@ FormHour has no subscriptions, in-app purchases, or advertising.
 
 ## Device Features
 
-Quiet Chime, in-app brightness control, and screen sleep prevention operate on your device. These features do not send personal data to the developer.
+Quiet Chime, session sounds, haptics, in-app brightness control, and screen sleep prevention operate on your device. These features do not send personal data to the developer.
+
+## Local Notifications
+
+FormHour may ask for permission to schedule local notifications so it can alert you when a Focus or Countdown session finishes while the app is in the background. Notifications are generated and scheduled on your device. Notification permission is optional, and timers remain usable if permission is denied. FormHour does not use remote push notifications and does not send notification data to the developer.
 
 ## Contact Support
 
