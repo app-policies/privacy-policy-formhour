@@ -32,7 +32,7 @@ When you select a JSON backup for restore, FormHour reads and validates that fil
 
 ## Focus Sounds and Device Features
 
-Rain, Brown Noise, and Soft Room are original procedural sound profiles generated and played on the device. Audio is not streamed, and listening activity is not transmitted. Focus Sounds stop when the session ends and use an audio-session mode designed to mix with other audio.
+Rain, Brown Noise, and Soft Room use original audio files bundled with the app and played on the device. Audio is not streamed, and listening activity is not transmitted. Focus Sounds stop when the session ends and use an audio-session mode designed to mix with other audio.
 
 Quiet Chime, haptics, in-app brightness control, screen sleep prevention, and burn-in reduction also operate entirely on your device.
 
